@@ -320,6 +320,8 @@ nav .fa-solid {
 @media only screen and (max-width: 600px) {
   #header {
     background-image: url(image/phone-background.png);
+    background-size: cover;
+    background-position: center;
   }
   .header-text {
     margin-top: 100%;
