@@ -333,6 +333,10 @@ nav .fa-solid {
   nav .fa-regular {
     display: block;
     font-size: 40px;
+    position: absolute;
+  top: 50%; /* Đặt phần tử ở giữa theo chiều dọc */
+  left: 50%;
+  transform: translate(-50%, -50%)
   }
   nav .fa-solid {
     display: block;
