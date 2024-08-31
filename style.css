@@ -332,11 +332,11 @@ nav .fa-solid {
   }
   nav .fa-regular {
     display: block;
-    font-size: 25px;
+    font-size: 40px;
   }
   nav .fa-solid {
     display: block;
-    font-size: 25px;
+    font-size: 40px;
   }
   nav ul {
     background: #ffd700;
@@ -355,14 +355,14 @@ nav .fa-solid {
   }
   nav ul .fa-regular {
     position: absolute;
-    top: 25px;
-    left: 25px;
+    top: 40px;
+    left: 40px;
     cursor: pointer;
   }
   nav ul .fa-solid {
     position: absolute;
-    top: 25px;
-    left: 25px;
+    top: 40px;
+    left: 40px;
     cursor: pointer;
   }
   .sub-title {
